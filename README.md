@@ -57,6 +57,7 @@ Your project folder
 ###Note: This project uses a .env file (not included) to store API keys. Please create your own based on the example.
 
 
+### Note: This project uses a .env file (not included) to store API keys. Please create your own based on the example.
 
 
 
