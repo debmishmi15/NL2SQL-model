@@ -25,15 +25,15 @@ A Streamlit-based chatbot application that converts natural language queries int
 
 
 ## Project Structure:
-Your project folder
-│
-├── app.py 
-├── main.py 
-├── db_setup.sql 
-├── test_data.sql 
-├── .env 
-├── requirements.txt 
-└── README.md 
+Your project folder\n
+│\n
+├── app.py\n 
+├── main.py\n 
+├── db_setup.sql\n 
+├── test_data.sql\n 
+├── .env\n 
+├── requirements.txt\n 
+└── README.md\n 
 
 ## Setup Instructions:
 
